@@ -1,6 +1,6 @@
 DEDEMASTARI RESOLUSI
-- Belajar HTML
 - Belajar CSS
 - Blejar Javascript
 - Belajar DOM
 - Belajar Javascript lanjutan
+- Belajar membuat website
